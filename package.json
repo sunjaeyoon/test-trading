@@ -1,0 +1,25 @@
+{
+  "name": "test-trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunjaeyoon/test-trading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunjaeyoon/test-trading/issues"
+  },
+  "homepage": "https://github.com/sunjaeyoon/test-trading#readme",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.3.0",
+    "date-fns": "^2.22.1",
+    "date-fns-timezone": "^0.1.4",
+    "dotenv": "^6.2.0"
+  }
+}
